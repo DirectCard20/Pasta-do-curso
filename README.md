@@ -1,2 +1,2 @@
-# Pasta-do-curso
-Repositório do curso
+# Pasta-do-coursera
+Repositório do coursera
